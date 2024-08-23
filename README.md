@@ -7,5 +7,3 @@ Neste Desafio você colocará a mão na massa e irá reproduzir a página da inc
 
 Link do Figma:
 https://www.figma.com/design/NRBYrG5d4DSzObv7dpTqoM/Desafio-Responsividade---DIO?node-id=0-1
-
-Resultado:
